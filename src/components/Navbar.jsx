@@ -3,10 +3,10 @@ import { ChevronDown } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
 const classes = [
-  { label: 'Class 6',  href: 'https://edzy-ai.github.io/cbse-class-6-resources/' },
-  { label: 'Class 7',  href: 'https://edzy-ai.github.io/cbse-class-7-resources/' },
-  { label: 'Class 8',  href: 'https://edzy-ai.github.io/cbse-class-8-resources/' },
-  { label: 'Class 9',  href: 'https://edzy-ai.github.io/cbse-class-9-resources/' },
+  { label: 'Class 6',  href: 'https://edzy-ai.github.io/cbse-class-06-resources/' },
+  { label: 'Class 7',  href: 'https://edzy-ai.github.io/cbse-class-07-resources/' },
+  { label: 'Class 8',  href: 'https://edzy-ai.github.io/cbse-class-08-resources/' },
+  { label: 'Class 9',  href: 'https://edzy-ai.github.io/cbse-class-09-resources/' },
   { label: 'Class 10', href: 'https://edzy-ai.github.io/cbse-class-10-resources/' },
   { label: 'Class 11', href: 'https://edzy-ai.github.io/cbse-class-11-resources/' },
   { label: 'Class 12', href: 'https://edzy-ai.github.io/cbse-class-12-resources/' },
